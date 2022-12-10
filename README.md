@@ -22,7 +22,8 @@
 20. [Câu 20](https://codepen.io/HuynhTrongQuoc/pen/XWYGmja)
 21. [Câu 21](https://codepen.io/HuynhTrongQuoc/pen/PoaLPGr)
 ## Thực hành 
-1. [Bài thực hành props và state](https://codesandbox.io/s/lam-quen-l7v8vr)
-2. [Bài thực hành số 1](https://codepen.io/HuynhTrongQuoc/pen/JjZVJaL)
-3. [Bài thực hành số 2](https://codesandbox.io/s/thuc-hanh-2-ihsq1k)
-4. [Bài thực hành số 3](
+1. [Bài thực hành làm quen React và component](https://codesandbox.io/s/lam-quen-l7v8vr)
+2. [Bài thực hành props và state]()
+3. [Bài thực hành số 1](https://codepen.io/HuynhTrongQuoc/pen/JjZVJaL)
+4. [Bài thực hành số 2](https://codesandbox.io/s/thuc-hanh-2-ihsq1k)
+5. [Bài thực hành số 3](
