@@ -26,4 +26,5 @@
 2. [Bài thực hành props và state](https://codepen.io/HuynhTrongQuoc/pen/VwdNzZg)
 3. [Bài thực hành số 1](https://codepen.io/HuynhTrongQuoc/pen/JjZVJaL)
 4. [Bài thực hành số 2](https://codesandbox.io/s/thuc-hanh-2-ihsq1k)
-5. [Bài thực hành số 3](
+5. [Bài thực hành số 3](https://codesandbox.io/s/thuc-hanh-3-48kbih)
+6. [Dự Án]
